@@ -46,6 +46,7 @@ a{
   display: flex;
   justify-content:space-between;
   align-items: center;
+  
 }
 
 .navbar a{
@@ -184,7 +185,7 @@ a{
   font-family: 'Open Sans', sans-serif;
   font-size:18px;
   font-weight:500;
-  margin-left: 2rem;
+ 
 }
 
 .team__title{
