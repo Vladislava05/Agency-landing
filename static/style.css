@@ -7,6 +7,10 @@
     margin: 0 auto;
   }
 
+body{
+  text-align: center;
+}
+
 #header {
    
     max-width: 100%;
@@ -22,8 +26,8 @@
     border-bottom: 7px double #AAAAAB;
     border-top: 2px solid #AAAAAB;
     content: "";
-    height: 4px;
-    width: 14px;
+    height: 3px;
+    width: 12px;
     box-sizing: unset;
     display: inline-block;
     vertical-align: middle;
@@ -64,14 +68,14 @@ a{
 .hero__subtitle{
   color:#F78CB6;
   font-family: 'Open Sans', sans-serif;
-  font-size:15px;
+  font-size:18px;
   font-weight:500;
 }
 
 .hero__title{
   color:#56597A;
   font-family: 'Open Sans', sans-serif;
-  font-size:16px;
+  font-size:28px;
   font-weight:600;
   
 }
@@ -115,7 +119,7 @@ a{
 .item__subtitle{
   color:#56597A;
   font-family: 'Open Sans', sans-serif;
-  font-size:16px;
+  font-size:18px;
   
 }
 
@@ -128,23 +132,23 @@ a{
 
 .services__inner{
   text-align: center;
-  margin-right:2px;
+  
 }
 
 .services__title{
   color:#56597A;
   font-family: 'Open Sans', sans-serif;
-  font-size:22px;
+  font-size:28px;
   font-weight:600;
-  margin-left:20px;
+  
 }
 
 .services__subtitle{
   color:#F78BB6;
   font-family: 'Open Sans', sans-serif;
-  font-size:16px;
+  font-size:18px;
   font-weight:500;
-  margin-left: 23px;
+  margin-left: 2rem;
 }
 
 .services__item{
@@ -166,7 +170,7 @@ a{
   font-family: 'Open Sans', sans-serif;
   font-size:16px;
   font-weight:500;
-  margin-left: 15px;
+  
   color:#AAAAAB;
   
 }
@@ -178,14 +182,15 @@ a{
 .team__subtitle{
   color:#F78CB6;
   font-family: 'Open Sans', sans-serif;
-  font-size:15px;
+  font-size:18px;
   font-weight:500;
+  margin-left: 2rem;
 }
 
 .team__title{
   color:#56597A;
   font-family: 'Open Sans', sans-serif;
-  font-size:16px;
+  font-size:28px;
   font-weight:600;
   
 }
@@ -227,14 +232,14 @@ a{
 .testimonial__subtitle{
   color:#F78CB6;
   font-family: 'Open Sans', sans-serif;
-  font-size:15px;
+  font-size:18px;
   font-weight:500;
 }
 
 .testimonial__title{
   color:#56597A;
   font-family: 'Open Sans', sans-serif;
-  font-size:16px;
+  font-size:28px;
   font-weight:600;
   
 }
@@ -262,13 +267,13 @@ a{
 .author{
   color:#56597A;
   font-family: 'Open Sans', sans-serif;
-  font-size:16px;
+  font-size:18px;
   font-weight:600;
 }
 
 .state{
   font-family: 'Open Sans', sans-serif;
-  font-size:15px;
+  font-size:16px;
   font-weight:300;
   color:#919299;
 }
@@ -364,7 +369,7 @@ a:hover{
   font-family: 'Open Sans', sans-serif;
   font-size:52px;
   font-weight:600;
-  margin-left:20px;
+ 
 }
 
 .services__subtitle{
@@ -372,12 +377,13 @@ a:hover{
   font-family: 'Open Sans', sans-serif;
   font-size:28px;
   font-weight:500;
-  margin-left: 23px;
+  
   padding-top: 50px;
 }
 
 .team{
   margin-top: 50px;
+  
   
 }
 .team__subtitle{
